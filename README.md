@@ -14,6 +14,13 @@ In that python code we used two functions named "fullname" and "string_alternati
 
 #Description for the word count Program code:
 
+In this Python code we uses the "with" statement to process the file.
+
+1) In this code we uses the two files input.txt contains some words and it will be displayed in the output.txt
+2) It also takes the input in a string and a list will be defined by the split statement it splits each word and appends in to the list.
+3) And then it counts the occurence of each word in that list and prints the output to the output file in a write mode.
+4) Finally, it prints the word and occurence value of the word.
+
 
 # Description for the conversion of height from inches to centimeters program code:
 
